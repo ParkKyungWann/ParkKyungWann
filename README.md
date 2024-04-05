@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   
 - 오류를 발견하고 해결하는 과정을 즐기고 있습니다
 
-<h1></h1>
+<h2> Contact & Channel </h2>
 
-Contact & Channel
 - Email : dhks75825@gmail.com
-- Git Hub : 
+- Git Hub : https://github.com/ParkKyungWann
+- 
