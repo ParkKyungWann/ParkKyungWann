@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   
 - Git Hub : https://github.com/ParkKyungWann
 
+- Blog : https://blog.naver.com/dhks758
+
 <h2> Skill </h2>
 
 - Front-End : HTML/CSS , JavaScript
