@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 <h1></h1>
 
 Contact & Channel
+- Email : dhks75825@gmail.com
+- Git Hub : 
