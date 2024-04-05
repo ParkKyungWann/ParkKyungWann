@@ -54,8 +54,6 @@ Here are some ideas to get you started:
     
   - PROJECT Git Hub : https://github.com/2023-SMHRD-KDT-AI-16/javaRepo_cy****
   
- <h1></h1>
- 
   <h3> 24.03.20 ~ 24.04.04 : MAKERS (정보처리기사 자격증 취득을 위한 스터디 서비스) </h3>
 
   <h4> 팀명 : 두콩두콩 </h4>
