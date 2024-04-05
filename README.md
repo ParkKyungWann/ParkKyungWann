@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     
   - 1회 오답 시 영화에 맞는 주인공 이름 나열 백엔드 구현
     
-  - Git Hub : https://github.com/2023-SMHRD-KDT-AI-16/javaRepo_cy****
+  - PROJECT Git Hub : https://github.com/2023-SMHRD-KDT-AI-16/javaRepo_cy****
  <h1></h1>
  
   <h3> 24.03.20 ~ 24.04.04 : MAKERS (정보처리기사 자격증 취득을 위한 스터디 서비스) </h3>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <h4> 팀명 : 두콩두콩 </h4>
   <h4> 팀원 : 손채영(팀장) , 김건형 , 나인혜 , 박경완</h4>
 
-<h5> 담당 : Front-End </h5>
+<h4> 담당 : Front-End </h4>
 
   - 회원가입 페이지 , 학습 페이지 , 학습 대시보드 , 마이 페이지 화면 틀 설계
     
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     
   - 회원가입이 가능한 화면 구현 및 로그인을 할 수 있는 화면 구현
     
-  - Git Hub : https://github.com/chaeyoun9/dookong
+  - PROJECT Git Hub : https://github.com/chaeyoun9/dookong
   
 
 
