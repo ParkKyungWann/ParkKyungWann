@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 
 - Email : dhks75825@gmail.com
 - Git Hub : https://github.com/ParkKyungWann
-- 
+
+<h2> Skill </h2>
+
+- Front-End : HTML/CSS , JavaScript
+- Back-End : Java , Servlet , Python
+- Database : Oracle
+
+
