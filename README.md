@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   - 랜덤으로 영화 장면 나타내주는 백엔드 구현
   - 사용자가 정답을 입력 후 정답과 비교하는 백엔드 구현
   - 1회 오답 시 영화에 맞는 주인공 이름 나열 백엔드 구현
+  - Gih Hub : https://github.com/2023-SMHRD-KDT-AI-16/javaRepo_cy****
  
   <h3> 24.03.20 ~ 24.04.04 : MAKERS (정보처리기사 자격증 취득을 위한 스터디 서비스) </h3>
   
