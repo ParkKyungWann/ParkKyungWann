@@ -44,10 +44,13 @@ Here are some ideas to get you started:
   <h4> 팀명 : 승영아 화이팅 </h4>
   <h4> 팀원 : 손채영(팀장) , 김경민 , 장민중 , 유승영 , 박경완 </h4>
   
-<h5> 담당 : Back-End </h5>
+  <h4> 담당 : Back-End </h4>
   - 랜덤으로 영화 장면 나타내주는 백엔드 구현
+  
   - 사용자가 정답을 입력 후 정답과 비교하는 백엔드 구현
+    
   - 1회 오답 시 영화에 맞는 주인공 이름 나열 백엔드 구현
+    
   - Git Hub : https://github.com/2023-SMHRD-KDT-AI-16/javaRepo_cy****
  <h1></h1>
  
