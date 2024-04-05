@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - Database : Oracle
 
   <h2> 📑 PROJECT 📑 </h2>
+  <h3> 24.01.31 ~ 24.02.02 영화 장면 보고 맞추기 게임 </h3>
+  - 스마트인재개발원
   
 
 
